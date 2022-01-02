@@ -8,6 +8,7 @@ import java.util.Set;
 public class HashMapExercises {
 
     public static void main(String[] args) {
+
         firstExercise();
         secondExercise();
         thirdExercise();
