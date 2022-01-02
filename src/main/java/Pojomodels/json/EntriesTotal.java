@@ -16,4 +16,5 @@ public class EntriesTotal {
     public void setEntriesValuesList(List<EntriesValues> entriesValuesList) {
         this.entriesValuesList = entriesValuesList;
     }
+
 }

@@ -44,4 +44,5 @@ public class EntriesValues {
     public void setRunsValuesList(List<RunsValues> runsValuesList) {
         this.runsValuesList = runsValuesList;
     }
+
 }

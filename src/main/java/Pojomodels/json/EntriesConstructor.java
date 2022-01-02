@@ -15,6 +15,7 @@ public class EntriesConstructor {
         EntriesConstructor entriesConstructor = new EntriesConstructor();
 
         Gson gson = new GsonBuilder().setPrettyPrinting().create();
+
         System.out.println(gson.toJson(entriesConstructor.getEntriesModel()));
     }
 
